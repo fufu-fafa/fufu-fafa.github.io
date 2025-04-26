@@ -180,15 +180,6 @@ input, select, textarea {
 			transition: color 0.2s ease;
 		}
 
-		a:hover {
-			border-bottom-color: transparent;
-			color: #2ebaae !important;
-		}
-
-			a:hover:before {
-				color: #2ebaae !important;
-			}
-
 	strong, b {
 		color: #3c3b3b;
 		font-weight: 700;
