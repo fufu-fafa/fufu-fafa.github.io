@@ -2325,20 +2325,12 @@ input, select, textarea {
 
 		.image.featured {
 			display: block;
-			margin: 0 0 3em 0;
-			width: 100%;
+			margin: 0 auto;
+			width: 90%;
 		}
 
 			.image.featured img {
 				width: 100%;
-			}
-
-			@media screen and (max-width: 736px) {
-
-				.image.featured {
-					margin: 0 0 1.5em 0;
-				}
-
 			}
 
 		.image.main {
